@@ -1,11 +1,11 @@
 # Installation
 
-Clone in WSL home directory and install.
+Clone in home directory and install.
 
 ```bash
-git clone git@github.com:bouhrassa/windows-dotfiles.git
+git clone git@github.com:ma-bourassa/-windows-dotfiles.git
 
-./wsl-dotfiles/install.sh
+./windows-dotfiles/install.sh
 ```
 
 To generate a new ssh key
